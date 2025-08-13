@@ -1,6 +1,3 @@
-<!-- Capa animada -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF">
-
 # 🧑‍💻 Me chamo Igor Bobato!
 
 💻 Acadêmico de Engenharia de Software  
