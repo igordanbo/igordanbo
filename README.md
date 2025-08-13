@@ -1,5 +1,7 @@
 # 🧑‍💻 Me chamo Igor Bobato!
 
+---
+
 💻 Acadêmico de Engenharia de Software  
 🚀 Entusiasta por criar, inovar e impactar com design e tecnologia
 📍 Brasil  
