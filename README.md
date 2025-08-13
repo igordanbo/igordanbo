@@ -4,7 +4,7 @@
 🚀 Entusiasta por criar, inovar e impactar com design e tecnologia
 📍 Brasil  
 
----
+
 
 ## 🚀 Tecnologias que uso
 
@@ -17,18 +17,18 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
----
+
 
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igordanbo&show_icons=true&theme=dracula)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igordanbo&layout=compact&theme=dracula)
 
----
+
 
 ## 📫 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igorbobato)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542998674710)
 
----
+
 
