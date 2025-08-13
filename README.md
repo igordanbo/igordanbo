@@ -21,8 +21,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igor-daniel&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-daniel&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igordanbo&show_icons=true&theme=dracula)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igordanbo&layout=compact&theme=dracula)
 
 ---
 
